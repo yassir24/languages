@@ -399,12 +399,26 @@
 "document_upload_instructions_scanned_image": "La imagen escaneada debe ser legible",
 "document_upload_instructions_ensure": "Asegúrese de que incluya foto, nombre, número, validez, dirección",
 "document_upload_instructions_multiple": "Si hay varias páginas, combínelas en una antes de subir",
+"document_upload_instructions":{
+"scanned_image": "La imagen escaneada debe ser legible",
+"ensure": "Asegúrate de que incluya Foto, Nombre, Número, Validez, Dirección",
+"multiple": "Si hay varias páginas, por favor combínalas en una antes de subirlas"
+},
 "register_as_seller": "Regístrese como vendedor",
 "forgot_email_sent": "Le hemos enviado un correo electrónico, utilice el enlace para continuar con su nueva creación de contraseña.",
 "phone": "Teléfono",
 "forgot_otp_sent": "Le hemos enviado OTP, verifíquelo para continuar con su nueva creación de contraseña.",
 "expired": "Venció",
 "reset_password_link_expired": "Su enlace de reinicio de contraseña está caducado. Solicite otro.",
+"size_masurement": {
+    "xs": "XS",
+    "s": "S",
+    "m": "M",
+    "l": "L",
+    "xl": "XL",
+    "cm": "cm",
+    "in": "in"
+  },
 "personalised_text": "Texto personalizado",
 "chest": "Pecho",
 "waist": "Cintura",
