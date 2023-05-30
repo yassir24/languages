@@ -1746,416 +1746,416 @@
      "your_bag": "حقيبتك",
      "اسم البائع": "اسم البائع" ,
      "standard_shipping": "Standard shipping",
-     "ملفوفة_هدية": "هدية مغلفة"،
+     "ملفوفة_هدية": "هدية مغلفة",
      "Accept_purchase_conditions_note": "لقد قرأت شروط الشراء وأوافق عليها وفهمت المعلومات الخاصة بمستخدم بياناتي الشخصية الموضحة في سياسة الخصوصية" ،
-     "auto_response": "Auto Response"،
-     "add_auto_response": "إضافة رد تلقائي" ،
-     "enter_message": "أدخل الرسالة" ،
-     "how_to_pack": "كيفية التحزيم"،
+     "auto_response": "Auto Response",
+     "add_auto_response": "إضافة رد تلقائي" ,
+     "enter_message": "أدخل الرسالة" ,
+     "how_to_pack": "كيفية التحزيم",
      "how_to_pack_note": "ضع في اعتبارك وزن منتجك وحجمه وقيمته وهشاشته لاتخاذ قرار بشأن العبوة المناسبة. تأكد أيضًا من أن عبوتك تتوافق مع اللوائح أيضًا. إذا كنت قد شحنت المنتجات إلى عملائك من خلال DHL من قبل ، فأنت قد يكون بالفعل على دراية بالنغمة المعيارية المتبعة "،
-     "tell_me_more": "أخبرني بالمزيد" ،
-     "إغلاق": "إغلاق" ،
-     "product_return_visible": "تم استخدام المنتج بشكل مرئي قبل الإرجاع" ،
-     "product_damaged_after_buyer": "تعرض المنتج للتلف بعد استلام المشتري" ،
-     "رفض السبب": "رفض السبب" ،
-     "Choose_shipping_method": "اختر طريقة شحن" ،
-     "DHL": "DHL" ،
-     "أخرى": "أخرى" ،
-     "shipping_company_name": "اسم شركة الشحن" ،
-     "رابط_التتبع": "رابط التتبع"،
-     "tracking_no": "لا تتبع" ،
-     "upload_photo_waybill": "تحميل صورة بوليصة الشحن"،
-     "type_message_buyer": "اكتب هنا رسالتك إلى المشتري" ،
-     "sub_total": "Sub Total"،
-     "discount_amount": "مبلغ الخصم"،
-     "lot_number_quality_docs": "رقم الدفعة ومستندات فحص الجودة"،
-     "lot_number": "رقم الدفعة"،
-     "add_batch_number": "إضافة رقم الدُفعة" ،
-     "awaiting_measurement_details_buyer": "في انتظار تفاصيل القياس من المشتري" ،
-     "awaiting_payment_confirmation.": "في انتظار تأكيد الدفع."،
-     "platform_fee_total.": "إجمالي رسوم النظام الأساسي"،
-     "download_invoice": "تنزيل الفاتورة"،
-     "add_custom_box": "إضافة مربع مخصص"،
-     "street_name_placeholder": "Neverland aVe."،
-     "new_lebanon": "لبنان الجديد"،
-     "state_goes_here": "الحالة تذهب هنا" ،
-     "package_title": "عنوان الحزمة"،
-     "type_here_the_title": "اكتب هنا العنوان" ،
-     "type_here_the_weight": "اكتب الوزن هنا" ،
-     "inch": "inch"،
-     "type_here_the_height": "اكتب هنا الارتفاع" ،
-     "type_here_the_length": "اكتب الطول هنا" ،
-     "save_default": "حفظ كافتراضي" ،
-     "you_purchase_shipping_label": "أنت على وشك شراء ملصق شحن واحد" ،
-     "Accept_Kwot": "أوافق على Kwot’s"،
-     "return_label_purchased": "لم يتم شراء تصنيف إرجاع" ،
-     "seller_name_placeholder": "اسم البائع"،
-     "seller_last_name_placeholder": "SellerLastName" ،
-     "معلومات_الشحن": "معلومات الشحن" ،
-     "type_your_sname": "اكتب لقبك" ،
-     "tax_id (معرّف الضريبة):" معرّف الضريبة "،
-     "type_your_tax_id": "اكتب معرف الضريبة" ،
-     "save_address_continue": "احفظ العنوان وتابع"،
-     "save_changes": "حفظ التغييرات" ،
-     "كتشف_the_account_email ":" لقد اكتشفنا الحساب بهذا البريد الإلكتروني. هل تريد تسجيل الدخول؟ "،
-     "continue_guest": "متابعة كضيف"،
-     "enter_details": "أدخل التفاصيل" ،
-     "please_enter_details_below": "الرجاء إدخال التفاصيل أدناه."،
-     "Kwot_account_please_sign_in": "إذا كان لديك حساب Kwot ، فيرجى تسجيل الدخول الآن لتقديم طلبك بسرعة."،
-     "continue_without_register": "متابعة بدون تسجيل" ،
-     "items_your_cart": "العناصر الموجودة في سلة التسوق"،
-     "ceed_checkout ":" تابع إلى الخروج "،
-     "order_payment": "دفع الطلب" ،
-     "this_page_will_expire": "ستنتهي صلاحية هذه الصفحة في"،
-     "flutterwave": "Flutterwave"،
-     "alatpay": "Alatpay"،
-     "دفع الأجور"،
-     "still_have_balance": "لا يزال لديك رصيد بقيمة" ،
-     "you_card_that_you": "على بطاقتك التي يمكنك استخدامها في عمليات الشراء المستقبلية."،
-     "Confirm_order": "تأكيد الطلب" ،
-     "review_payment": "مراجعة ودفع"،
-     "digital_products": "المنتجات الرقمية"،
-     "not_refundable_note": "ملاحظة: - هذا العنصر غير قابل للاسترداد" ،
-     "dhl_express_other": "DHL Express / أخرى" ،
-     "delivery_partner": "شريك التوصيل" ،
-     "will_provider_vendor": "سوف يكون مقدمًا من قبل البائع" ،
-     "total_amount": "المبلغ الإجمالي"،
-     "digital_products_total": "إجمالي المنتجات الرقمية" ،
-     "physical_products_total": "إجمالي المنتجات المادية"،
-     "promo_gift_code_physical_items": "ملاحظة: - ينطبق الرمز الترويجي / رمز الهدية على العناصر المادية فقط"،
-     "application_promo_code": "تطبيق الرمز الترويجي" ،
-     "application_gift_code": "تطبيق رمز الهدية"،
-     "irm_tracking_box_note ": من خلال تحديد المربع ، فإنك تؤكد أنك قد قرأت ووافقت على شروط الاستخدام و" ،
-     "the_kwot_platform.": "إلى منصة kwot."،
-     "ceed_payment. ":" متابعة الدفع "،
-     "أدخل_القياسات": "أدخل القياسات" ،
-     "pay_via": "الدفع عن طريق"،
-     "alatpay_transfer": "Alatpay (التحويل المصرفي / دفع البطاقة)" ،
-     "enter_amount_credit": "أدخل المبلغ الذي تريد إضافة رصيد إليه."،
-     "enter_amount": "أدخل المبلغ" ،
-     "ceed_to_payment ":" متابعة الدفع "،
+     "tell_me_more": "أخبرني بالمزيد" ,
+     "إغلاق": "إغلاق" ,
+     "product_return_visible": "تم استخدام المنتج بشكل مرئي قبل الإرجاع" ,
+     "product_damaged_after_buyer": "تعرض المنتج للتلف بعد استلام المشتري" ,
+     "رفض السبب": "رفض السبب" ,
+     "Choose_shipping_method": "اختر طريقة شحن" ,
+     "DHL": "DHL" ,
+     "أخرى": "أخرى" ,
+     "shipping_company_name": "اسم شركة الشحن" ,
+     "رابط_التتبع": "رابط التتبع",
+     "tracking_no": "لا تتبع" ,
+     "upload_photo_waybill": "تحميل صورة بوليصة الشحن",
+     "type_message_buyer": "اكتب هنا رسالتك إلى المشتري" ,
+     "sub_total": "Sub Total",
+     "discount_amount": "مبلغ الخصم",
+     "lot_number_quality_docs": "رقم الدفعة ومستندات فحص الجودة",
+     "lot_number": "رقم الدفعة",
+     "add_batch_number": "إضافة رقم الدُفعة" ,
+     "awaiting_measurement_details_buyer": "في انتظار تفاصيل القياس من المشتري" ,
+     "awaiting_payment_confirmation.": "في انتظار تأكيد الدفع.",
+     "platform_fee_total.": "إجمالي رسوم النظام الأساسي",
+     "download_invoice": "تنزيل الفاتورة",
+     "add_custom_box": "إضافة مربع مخصص",
+     "street_name_placeholder": "Neverland aVe.",
+     "new_lebanon": "لبنان الجديد",
+     "state_goes_here": "الحالة تذهب هنا" ,
+     "package_title": "عنوان الحزمة",
+     "type_here_the_title": "اكتب هنا العنوان" ,
+     "type_here_the_weight": "اكتب الوزن هنا" ,
+     "inch": "inch",
+     "type_here_the_height": "اكتب هنا الارتفاع" ,
+     "type_here_the_length": "اكتب الطول هنا" ,
+     "save_default": "حفظ كافتراضي" ,
+     "you_purchase_shipping_label": "أنت على وشك شراء ملصق شحن واحد" ,
+     "Accept_Kwot": "أوافق على Kwot’s",
+     "return_label_purchased": "لم يتم شراء تصنيف إرجاع" ,
+     "seller_name_placeholder": "اسم البائع",
+     "seller_last_name_placeholder": "SellerLastName" ,
+     "معلومات_الشحن": "معلومات الشحن" ,
+     "type_your_sname": "اكتب لقبك" ,
+     "tax_id (معرّف الضريبة):" معرّف الضريبة ",
+     "type_your_tax_id": "اكتب معرف الضريبة" ,
+     "save_address_continue": "احفظ العنوان وتابع",
+     "save_changes": "حفظ التغييرات" ,
+     "كتشف_the_account_email ":" لقد اكتشفنا الحساب بهذا البريد الإلكتروني. هل تريد تسجيل الدخول؟ ",
+     "continue_guest": "متابعة كضيف",
+     "enter_details": "أدخل التفاصيل" ,
+     "please_enter_details_below": "الرجاء إدخال التفاصيل أدناه.",
+     "Kwot_account_please_sign_in": "إذا كان لديك حساب Kwot ، فيرجى تسجيل الدخول الآن لتقديم طلبك بسرعة.",
+     "continue_without_register": "متابعة بدون تسجيل" ,
+     "items_your_cart": "العناصر الموجودة في سلة التسوق",
+     "ceed_checkout ":" تابع إلى الخروج ",
+     "order_payment": "دفع الطلب" ,
+     "this_page_will_expire": "ستنتهي صلاحية هذه الصفحة في",
+     "flutterwave": "Flutterwave",
+     "alatpay": "Alatpay",
+     "دفع الأجور",
+     "still_have_balance": "لا يزال لديك رصيد بقيمة" ,
+     "you_card_that_you": "على بطاقتك التي يمكنك استخدامها في عمليات الشراء المستقبلية.",
+     "Confirm_order": "تأكيد الطلب" ,
+     "review_payment": "مراجعة ودفع",
+     "digital_products": "المنتجات الرقمية",
+     "not_refundable_note": "ملاحظة: - هذا العنصر غير قابل للاسترداد" ,
+     "dhl_express_other": "DHL Express / أخرى" ,
+     "delivery_partner": "شريك التوصيل" ,
+     "will_provider_vendor": "سوف يكون مقدمًا من قبل البائع" ,
+     "total_amount": "المبلغ الإجمالي",
+     "digital_products_total": "إجمالي المنتجات الرقمية" ,
+     "physical_products_total": "إجمالي المنتجات المادية",
+     "promo_gift_code_physical_items": "ملاحظة: - ينطبق الرمز الترويجي / رمز الهدية على العناصر المادية فقط",
+     "application_promo_code": "تطبيق الرمز الترويجي" ,
+     "application_gift_code": "تطبيق رمز الهدية",
+     "irm_tracking_box_note ":" من خلال تحديد المربع ، فإنك تؤكد أنك قد قرأت ووافقت على شروط الاستخدام و" ,
+     "the_kwot_platform.": "إلى منصة kwot.",
+     "ceed_payment. ":" متابعة الدفع ",
+     "أدخل_القياسات": "أدخل القياسات" ,
+     "pay_via": "الدفع عن طريق",
+     "alatpay_transfer": "Alatpay (التحويل المصرفي / دفع البطاقة)" ,
+     "enter_amount_credit": "أدخل المبلغ الذي تريد إضافة رصيد إليه.",
+     "enter_amount": "أدخل المبلغ" ,
+     "ceed_to_payment ":" متابعة الدفع ",
      "subscription_join_note": "شكرًا لانضمامك إلى Kwot! يسعدنا انضمامك إلينا. يرجى تحديد خطة الاشتراك المفضلة لديك والدفع مقابلها. بمجرد الاشتراك ، ستتمكن من الوصول إلى موقعنا وجميع ميزاته."،
-     "subscription_join_things": إليك بعض الأشياء التي يجب وضعها في الاعتبار: سيتم محاسبتك كل شهر في نفس اليوم الذي اشتركت فيه. يمكنك إلغاء اشتراكك في أي وقت. إذا كانت لديك أي أسئلة أو كنت بحاجة إلى مساعدة ، فلا تتردد في اتصل بنا نتمنى أن تستمتع بخدمتنا !. "،
-     "keep_things_title": "إليك بعض الأشياء التي يجب وضعها في الاعتبار:"،
-     "keep_things_note_one": "ستتم محاسبتك كل شهر في نفس يوم الاشتراك."،
-     "keep_things_note_two": "يمكنك إلغاء اشتراكك في أي وقت."،
+     "subscription_join_things":" إليك بعض الأشياء التي يجب وضعها في الاعتبار: سيتم محاسبتك كل شهر في نفس اليوم الذي اشتركت فيه. يمكنك إلغاء اشتراكك في أي وقت. إذا كانت لديك أي أسئلة أو كنت بحاجة إلى مساعدة ، فلا تتردد في اتصل بنا نتمنى أن تستمتع بخدمتنا !. "،
+     "keep_things_title": "إليك بعض الأشياء التي يجب وضعها في الاعتبار:",
+     "keep_things_note_one": "ستتم محاسبتك كل شهر في نفس يوم الاشتراك.",
+     "keep_things_note_two": "يمكنك إلغاء اشتراكك في أي وقت.",
      "keep_things_note_three": "إذا كان لديك أي أسئلة أو كنت بحاجة إلى مساعدة ، فلا تتردد في الاتصال بنا. نأمل أن تستمتع بخدمتنا!" ،
-     "already_active_subscription_note": "لديك بالفعل اشتراك نشط."،
-     "select_plan": "حدد خطة" ،
-     "خطوة خطوة"،
-     "من": "من"،
-     "اشتراك": "اشتراك" ،
-     "اشتراك": "اشتراك" ،
-     "العوائد": "العوائد"،
-     "payout": "payout"،
-     "details_title": "التفاصيل"،
-     "ملاحظة": "ملاحظة"،
-     "أقل": "أقل"،
-     "end_in": "انتهى في"،
-     "payout_schedule": "جدول العوائد"،
-     "Receiving_payout_note": "خصص متى وكيف تريد تلقي العوائد" ،
-     "Automatic_schedule": "جدول تلقائي"،
-     "manual_schedule": "جدول يدوي"،
-     "أسبوعيًا": "أسبوعيًا"،
-     "شهريا": "شهريا"،
-     "select_day": "حدد اليوم"،
-     "set_minimum_amount": "تعيين الحد الأدنى للمبلغ" ،
-     "pull_frequency_note": "سيؤدي هذا إلى بدء السحب بالتردد المحدد فقط عندما يتجاوز الصندوق المتاح المبلغ المحدد." ،
-     "الحد الأدنى_المبلغ": "الحد الأدنى للمبلغ"،
-     "store_preview": "معاينة المتجر" ،
-     "contact_help": "الاتصال والمساعدة" ،
-     "send_your_feedback": "أرسل ملاحظاتك" ،
-     "edit_bank_details": "تعديل تفاصيل البنك"،
-     "payment_option_note": "Kwot Payments تمنح المشترين معظم خيارات الدفع وتمنحك حماية بائع Kwot."،
-     "volume_discount": "حجم الخصم"،
-     "السعر الأساسي": "السعر الأساسي"،
-     "price_with_discount": "السعر مع الخصم"،
+     "already_active_subscription_note": "لديك بالفعل اشتراك نشط.",
+     "select_plan": "حدد خطة" ,
+     "خطوة خطوة",
+     "من": "من",
+     "اشتراك": "اشتراك" ,
+     "اشتراك": "اشتراك" ,
+     "العوائد": "العوائد",
+     "payout": "payout",
+     "details_title": "التفاصيل",
+     "ملاحظة": "ملاحظة",
+     "أقل": "أقل",
+     "end_in": "انتهى في",
+     "payout_schedule": "جدول العوائد",
+     "Receiving_payout_note": "خصص متى وكيف تريد تلقي العوائد" ,
+     "Automatic_schedule": "جدول تلقائي",
+     "manual_schedule": "جدول يدوي",
+     "أسبوعيًا": "أسبوعيًا",
+     "شهريا": "شهريا",
+     "select_day": "حدد اليوم",
+     "set_minimum_amount": "تعيين الحد الأدنى للمبلغ" ,
+     "pull_frequency_note": "سيؤدي هذا إلى بدء السحب بالتردد المحدد فقط عندما يتجاوز الصندوق المتاح المبلغ المحدد." ,
+     "الحد الأدنى_المبلغ": "الحد الأدنى للمبلغ",
+     "store_preview": "معاينة المتجر" ,
+     "contact_help": "الاتصال والمساعدة" ,
+     "send_your_feedback": "أرسل ملاحظاتك" ,
+     "edit_bank_details": "تعديل تفاصيل البنك",
+     "payment_option_note": "Kwot Payments تمنح المشترين معظم خيارات الدفع وتمنحك حماية بائع Kwot.",
+     "volume_discount": "حجم الخصم",
+     "السعر الأساسي": "السعر الأساسي",
+     "price_with_discount": "السعر مع الخصم",
      "vendor_dashboard_note": "لقد أدخلنا التسويق بالعمولة على منصتنا. لقد تم تمكينه افتراضيًا لك بعمولة 5٪. يمكنك تغييره وقتما تشاء."،
-     "click_here": "انقر هنا" ،
-     "to_update_it": "لتحديثه" ،
-     "Renew_subscription": "لقد انتهى اشتراكك على KWOT. لتجديد اشتراكك ، من فضلك" ،
+     "click_here": "انقر هنا" ,
+     "to_update_it": "لتحديثه" ,
+     "Renew_subscription": "لقد انتهى اشتراكك على KWOT. لتجديد اشتراكك ، من فضلك" ,
      "no_active_subscription_note": "أنت لست في أي اشتراك نشط. يرجى الاشتراك لتنشيط حسابك والبدء في استخدام النظام الأساسي ، من فضلك" ،
-     "exchange_rate": "سعر الصرف" ،
-     "your_store_profile_profile": "تم حظر ملف تعريف متجرك" ،
-     "quick_note": "ملاحظة سريعة: أدخل دائمًا آخر مبلغ نرسله - لن تعمل أي مبالغ إيداع أرسلناها سابقًا."،
-     "مبلغ الإيداع": "مبلغ الإيداع" ،
-     "Deposit_amount_placeholder": "اكتب هنا مبلغ الإيداع" ،
-     "سم": "سم"،
-     "your_advertising": "إعلانك" ،
-     "out_of": "out of"،
-     "of_your_active_products": "من منتجاتك النشطة" ،
-     "select_all_my-products": "حدد كل منتجاتي" ،
-     "add_money": "Add Money"،
-     "manager_your_daily_budget": "إدارة ميزانيتك اليومية" ،
-     "a_day": "يوم."،
+     "exchange_rate": "سعر الصرف" ,
+     "your_store_profile_profile": "تم حظر ملف تعريف متجرك" ,
+     "quick_note": "ملاحظة سريعة: أدخل دائمًا آخر مبلغ نرسله - لن تعمل أي مبالغ إيداع أرسلناها سابقًا.",
+     "مبلغ الإيداع": "مبلغ الإيداع" ,
+     "Deposit_amount_placeholder": "اكتب هنا مبلغ الإيداع" ,
+     "سم": "سم",
+     "your_advertising": "إعلانك" ,
+     "out_of": "out of",
+     "of_your_active_products": "من منتجاتك النشطة" ,
+     "select_all_my-products": "حدد كل منتجاتي" ,
+     "add_money": "Add Money",
+     "manager_your_daily_budget": "إدارة ميزانيتك اليومية" ,
+     "a_day": "يوم.",
      "store_budget_note": "ميزانيتك هي المفتاح لجذب أكبر عدد ممكن من الزيارات إلى متجرك - فهي تحدد عدد مرات عرض إعلاناتك للمشترين. يمكنك تغييرها في أي وقت" ،
-     "the_minimum_is": "الحد الأدنى هو" ،
-     "a_day_and_the_maximum_is": "يوم ، والحد الأقصى هو"،
-     "set_daily_budget": "تعيين الميزانية اليومية"،
-     "create_discount": "إنشاء خصم"،
-     "discount_code": "كود الخصم"،
-     "النسبة المئوية": "النسبة المئوية" ،
-     "مبلغ ثابت": "مبلغ ثابت"،
-     "القيمة": "القيمة"،
-     "validity_of_discount": "صلاحية الخصم" ،
-     "validity_of_discount_note": "عيِّن التواريخ التي سيكون فيها هذا الخصم نشطًا."،
-     "إدارة المنتجات": "إدارة المنتجات"،
-     "discount_applied_note": "سيتم تطبيق الخصم على المنتجات."،
-     "select_products": "تحديد المنتجات" ،
-     "select_product": "حدد المنتج" ،
-     "custom_packages": "حزم مخصصة"،
-     "custom_packages_note": "يتم استخدام أحجام العبوات التي تستخدمها لشحن منتجاتك عند حساب أسعار الشحن عند الخروج."،
-     "remove_package": "إزالة الحزمة" ،
-     "about_to_remove_package": "أنت على وشك إزالة حزمة" ،
-     "remove_discount": "إزالة الخصم" ،
-     "see_discount_applied": "هنا سترى الخصم مطبقًا" ،
-     "in_your_store": "في متجرك" ،
-     "تمكين": "تمكين" ،
-     "تعطيل": "تعطيل"،
-     "affiliate_commission": "Affiliate Commission"،
-     "Commission_note": "لا يمكن أن تقل العمولة عن 5٪" ،
-     "affiliate_partners": "Affiliate Partners"،
-     "الأرباح_ المكتسبة": "الإيرادات المكتسبة"،
-     "Commission_paid": "العمولة المدفوعة"،
-     "edit_info_appearance": "تعديل المعلومات والمظهر" ،
-     "store_s_name": "اسم المتجر"،
-     "change_stores_name": "تغيير اسم المتجر"،
-     "edit_wrapped_gift": "تعديل الهدية المغلفة"،
-     "set_price_gift_wrapped": "حدد السعر الذي تريده إذا طلب المستخدم تغليف الهدية" ،
-     "info_and_appearance": "المعلومات والمظهر"،
-     "category_goes_here": "تظهر الفئة هنا" ،
-     "please_subscribe_plan": "الرجاء الاشتراك في خطة" ،
-     "access_more_buyers_with_ads": "الوصول إلى المزيد من المشترين باستخدام إعلانات Kwot" ،
+     "the_minimum_is": "الحد الأدنى هو" ,
+     "a_day_and_the_maximum_is": "يوم ، والحد الأقصى هو",
+     "set_daily_budget": "تعيين الميزانية اليومية",
+     "create_discount": "إنشاء خصم",
+     "discount_code": "كود الخصم",
+     "النسبة المئوية": "النسبة المئوية" ,
+     "مبلغ ثابت": "مبلغ ثابت",
+     "القيمة": "القيمة",
+     "validity_of_discount": "صلاحية الخصم" ,
+     "validity_of_discount_note": "عيِّن التواريخ التي سيكون فيها هذا الخصم نشطًا.",
+     "إدارة المنتجات": "إدارة المنتجات",
+     "discount_applied_note": "سيتم تطبيق الخصم على المنتجات.",
+     "select_products": "تحديد المنتجات" ,
+     "select_product": "حدد المنتج" ,
+     "custom_packages": "حزم مخصصة",
+     "custom_packages_note": "يتم استخدام أحجام العبوات التي تستخدمها لشحن منتجاتك عند حساب أسعار الشحن عند الخروج.",
+     "remove_package": "إزالة الحزمة" ,
+     "about_to_remove_package": "أنت على وشك إزالة حزمة" ,
+     "remove_discount": "إزالة الخصم" ,
+     "see_discount_applied": "هنا سترى الخصم مطبقًا" ,
+     "in_your_store": "في متجرك" ,
+     "تمكين": "تمكين" ,
+     "تعطيل": "تعطيل",
+     "affiliate_commission": "Affiliate Commission",
+     "Commission_note": "لا يمكن أن تقل العمولة عن 5٪" ,
+     "affiliate_partners": "Affiliate Partners",
+     "الأرباح_ المكتسبة": "الإيرادات المكتسبة",
+     "Commission_paid": "العمولة المدفوعة",
+     "edit_info_appearance": "تعديل المعلومات والمظهر" ,
+     "store_s_name": "اسم المتجر",
+     "change_stores_name": "تغيير اسم المتجر",
+     "edit_wrapped_gift": "تعديل الهدية المغلفة",
+     "set_price_gift_wrapped": "حدد السعر الذي تريده إذا طلب المستخدم تغليف الهدية" ,
+     "info_and_appearance": "المعلومات والمظهر",
+     "category_goes_here": "تظهر الفئة هنا" ,
+     "please_subscribe_plan": "الرجاء الاشتراك في خطة" ,
+     "access_more_buyers_with_ads": "الوصول إلى المزيد من المشترين باستخدام إعلانات Kwot" ,
      "reach_more_buyers_with_ads_note": "إعلانات Kwot تجعل منتجاتك أكثر بروزًا في بحث Kwot ، على صفحات الفئات حتى على صفحات المنتجات الأخرى."،
-     "get_started_for_just": "ابدأ الآن" ،
-     "need_to_do_set_budget": "كل ما عليك فعله هو تعيين ميزانيتك واختيار المنتج الذي تريد الترويج له."،
-     "get_started": "البدء"،
-     "ads": "الإعلانات"،
-     "طرق العرض": "طرق العرض"،
-     "stats_for_individual_advertised_products": "إحصاءات المنتجات الفردية المُعلن عنها"،
-     "Success_ads_budget_note": "نجاح! أنت الآن تعلن بميزانية قدرها" ،
+     "get_started_for_just": "ابدأ الآن" ,
+     "need_to_do_set_budget": "كل ما عليك فعله هو تعيين ميزانيتك واختيار المنتج الذي تريد الترويج له.",
+     "get_started": "البدء",
+     "ads": "الإعلانات",
+     "طرق العرض": "طرق العرض",
+     "stats_for_individual_advertised_products": "إحصاءات المنتجات الفردية المُعلن عنها",
+     "Success_ads_budget_note": "نجاح! أنت الآن تعلن بميزانية قدرها" ,
      "ads_budget_sub_note": "تظهر منتجاتك الآن في مكان أعلى في نتائج بحث Kwot ، مما يعني أنك تصل إلى المزيد من المشترين الذين يبحثون عن عناصر مثل منتجاتك. من المهم الحفاظ على ميزانيتك كما هي خلال أول 30 يومًا من حملتك حتى نتمكن من تحديد الاتجاهات في حركة المرور الخاصة بك والمساعدة في جذب أكبر عدد ممكن من الزيارات إلى متجرك. "،
-     "turn_off_ads": "إيقاف تشغيل الإعلانات"،
-     "your_subscrib_plan": "خطتك المشتركة" ،
-     "حر حر"،
-     "Cancel_subscription": "إلغاء الاشتراك"،
-     "no_plan_subscribe_yet": "لا توجد خطة للاشتراك بعد" ،
-     "اسم_الخطة": "اسم الخطة"،
-     "are_you_cancel_subscription": "هل أنت متأكد أنك تريد إلغاء الاشتراك؟"،
-     "cancellation_affective": "سيكون الإلغاء مؤثرًا في نهاية دورة الفوترة."،
-     "reset_subscription_anytime": "يمكنك إعادة تشغيل اشتراكك في أي وقت."،
-     "yes_confirm_cancellation": "نعم ، تأكيد الإلغاء" ،
-     "enable_gift_wrap_price_for_store": "الرجاء تمكين سعر تغليف الهدايا لمتجرك."،
-     "الخصومات": "الخصومات"،
-     "الاشتراكات": "الاشتراكات"،
-     "affiliate_marketing": "التسويق بالعمولة" ،
-     "payment_providers_policy": "سياسة موفري الدفع" ،
-     "select_year_of_establishment": "حدد سنة التأسيس" ،
-     "patents_title": "براءات الاختراع"،
-     "add_line": "إضافة سطر" ،
-     "معلومات المصنع": "معلومات المصنع" ،
-     "square_meters": "متر مربع"،
-     "logo_and_banner": "Logo & Banner"،
-     "before_starting": "قبل البدء ..."،
-     "options_defines": "أي من الخيارات التالية يحددك بشكل أفضل؟"،
-     "part_of_company_note": "أنت جزء من شركة بها العديد من الموظفين" ،
-     "i_m_individual_seller": "أنا بائع فردي" ،
-     "individual_seller_note": "أنت شخص واحد يبيع منتجات صغيرة الحجم بشكل فردي" ،
-     "card_number": "رقم البطاقة"،
-     "exp": "EXP"،
-     "cvv": "CVV"،
-     "please_provide__pin": "الرجاء تقديم رقم التعريف الشخصي" ،
-     "input_otp_sent_mobile_number": "الرجاء إدخال OTP المرسل إلى رقم هاتفك المحمول" ،
-     "name_this_location": "اسم هذا الموقع"،
-     "identifier_address_note": "أدخل اسمًا يحدد هذا العنوان على سبيل المثال: - منزل / متجر / مستودع" ،
-     "add_discount": "إضافة خصم"،
-     "type_amount": "اكتب المبلغ" ،
-     "more_than_equal": "أكثر من أو يساوي"،
-     "new_rank": "رتبة جديدة"،
-     "size_chart": "size_chart" ،
-     "is_enabled": "ممكّن" ،
-     "select_add_primary_color": "تحديد / إضافة اللون الأساسي" ،
-     "select_add_secondary_material": "تحديد / إضافة مادة ثانوية" ،
-     "enter_weight_product": "أدخل وزن المنتج" ،
-     "الوزن_الحد الأدنى": "يجب أن يكون الحد الأدنى للوزن" ،
+     "turn_off_ads": "إيقاف تشغيل الإعلانات",
+     "your_subscrib_plan": "خطتك المشتركة" ,
+     "حر حر",
+     "Cancel_subscription": "إلغاء الاشتراك",
+     "no_plan_subscribe_yet": "لا توجد خطة للاشتراك بعد" ,
+     "اسم_الخطة": "اسم الخطة",
+     "are_you_cancel_subscription": "هل أنت متأكد أنك تريد إلغاء الاشتراك؟",
+     "cancellation_affective": "سيكون الإلغاء مؤثرًا في نهاية دورة الفوترة.",
+     "reset_subscription_anytime": "يمكنك إعادة تشغيل اشتراكك في أي وقت.",
+     "yes_confirm_cancellation": "نعم ، تأكيد الإلغاء" ,
+     "enable_gift_wrap_price_for_store": "الرجاء تمكين سعر تغليف الهدايا لمتجرك.",
+     "الخصومات": "الخصومات",
+     "الاشتراكات": "الاشتراكات",
+     "affiliate_marketing": "التسويق بالعمولة" ,
+     "payment_providers_policy": "سياسة موفري الدفع" ,
+     "select_year_of_establishment": "حدد سنة التأسيس" ,
+     "patents_title": "براءات الاختراع",
+     "add_line": "إضافة سطر" ,
+     "معلومات المصنع": "معلومات المصنع" ,
+     "square_meters": "متر مربع",
+     "logo_and_banner": "Logo & Banner",
+     "before_starting": "قبل البدء ...",
+     "options_defines": "أي من الخيارات التالية يحددك بشكل أفضل؟",
+     "part_of_company_note": "أنت جزء من شركة بها العديد من الموظفين" ,
+     "i_m_individual_seller": "أنا بائع فردي" ,
+     "individual_seller_note": "أنت شخص واحد يبيع منتجات صغيرة الحجم بشكل فردي" ,
+     "card_number": "رقم البطاقة",
+     "exp": "EXP",
+     "cvv": "CVV",
+     "please_provide__pin": "الرجاء تقديم رقم التعريف الشخصي" ,
+     "input_otp_sent_mobile_number": "الرجاء إدخال OTP المرسل إلى رقم هاتفك المحمول" ,
+     "name_this_location": "اسم هذا الموقع",
+     "identifier_address_note": "أدخل اسمًا يحدد هذا العنوان على سبيل المثال: - منزل / متجر / مستودع" ,
+     "add_discount": "إضافة خصم",
+     "type_amount": "اكتب المبلغ" ,
+     "more_than_equal": "أكثر من أو يساوي",
+     "new_rank": "رتبة جديدة",
+     "size_chart": "size_chart" ,
+     "is_enabled": "ممكّن" ,
+     "select_add_primary_color": "تحديد / إضافة اللون الأساسي" ,
+     "select_add_secondary_material": "تحديد / إضافة مادة ثانوية" ,
+     "enter_weight_product": "أدخل وزن المنتج" ,
+     "الوزن_الحد الأدنى": "يجب أن يكون الحد الأدنى للوزن" ,
      "package_dimensions_shipping_note": "تُستخدم أبعاد العبوة لحساب أسعار الشحن وأحجام العبوات. قد يختلف هذا عن الحجم الفعلي للمنتج ، حيث يمكن طي المنتج أو ضغطه للشحن." ،
-     "select_metric": "حدد مقياسًا" ،
-     "الحد الأدنى للطول_الطول": "يجب أن يكون الحد الأدنى للطول 1" ،
-     "الحد الأدنى_عرض_الصورة": "يجب أن يكون الحد الأدنى للعرض 1" ،
-     "min_height_should": "يجب أن يكون الحد الأدنى للارتفاع 1" ،
-     "select_add_secondary_color": "تحديد / إضافة لون ثانوي" ،
-     "select_add_primary_material": "Select / Add Primary material"،
+     "select_metric": "حدد مقياسًا" ,
+     "الحد الأدنى للطول_الطول": "يجب أن يكون الحد الأدنى للطول 1" ,
+     "الحد الأدنى_عرض_الصورة": "يجب أن يكون الحد الأدنى للعرض 1" ,
+     "min_height_should": "يجب أن يكون الحد الأدنى للارتفاع 1" ,
+     "select_add_secondary_color": "تحديد / إضافة لون ثانوي" ,
+     "select_add_primary_material": "Select / Add Primary material",
      "features_product_import_note": "أبعاد المنتج مهمة لتوفير معلومات دقيقة للعملاء وللتأكد من أن المنتج سيتناسب مع المساحة المطلوبة للعميل. تؤثر الأبعاد أيضًا على تكلفة شحن المنتج."،
-     "enable_product_returnable": "يؤدي تمكين هذا إلى وضع علامة على المنتج على أنه قابل للإرجاع" ،
-     "platform_markup_automatically": "ملاحظة: - ستتم إضافة رسوم ترميز المنصة تلقائيًا إلى السعر أعلاه" ،
-     "product_price_buyer": "ملاحظة: - سعر المنتج الذي سيراه المشتري على KWOT."،
-     "Personalisation_description": "وصف التخصيص" ،
-     "international_usd": "عالميًا (بالدولار الأمريكي)"،
-     "SKU": "SKU" ،
-     "please_select": "الرجاء التحديد" ،
-     "no_value_selected": "لم يتم تحديد قيمة" ،
-     "application_discount_variations": "تطبيق الخصم على جميع الأشكال" ،
-     "application_different_discounts_variations": "تطبيق خصومات مختلفة لكل متغيرات" ،
+     "enable_product_returnable": "يؤدي تمكين هذا إلى وضع علامة على المنتج على أنه قابل للإرجاع" ,
+     "platform_markup_automatically": "ملاحظة: - ستتم إضافة رسوم ترميز المنصة تلقائيًا إلى السعر أعلاه" ,
+     "product_price_buyer": "ملاحظة: - سعر المنتج الذي سيراه المشتري على KWOT.",
+     "Personalisation_description": "وصف التخصيص" ,
+     "international_usd": "عالميًا (بالدولار الأمريكي)",
+     "SKU": "SKU" ,
+     "please_select": "الرجاء التحديد" ,
+     "no_value_selected": "لم يتم تحديد قيمة" ,
+     "application_discount_variations": "تطبيق الخصم على جميع الأشكال" ,
+     "application_different_discounts_variations": "تطبيق خصومات مختلفة لكل متغيرات" ,
      "application_product_depending_note": "الأسطر التالية هي المكان الذي يمكنك فيه إدارة الخصم المئوي الذي تريد تطبيقه على المنتج اعتمادًا على الكمية التي يشتريها المشترون" ،
-     "price_range": "نطاق السعر"،
-     "volume_discounts": "خصومات الحجم"،
-     "store_sell_product": "في أي متجر ستبيع هذا المنتج؟"،
-     "sell_kwot_store": "البيع في متجر Kwot" ،
-     "sell_b2b": "بيع في B2B" ،
-     "edit_vendor_product": "تحذير! أنت تقوم بتحرير منتج بائع."،
-     "add_under_categories": "إذا لم تتمكن من العثور على السمة التي تبحث عنها ، فحاول إضافتها / تمكينها ضمن الفئات" ،
-     "create_promo_code": "إنشاء رمز ترويجي"،
-     "customers_discount_checkout": "سيدخل العملاء رمز الخصم هذا عند الخروج."،
-     "promo_type": "نوع العرض الترويجي"،
-     "متطلبات_الحد الأدنى": "الحد الأدنى من المتطلبات"،
-     "ليس ليس"،
-     "الحد الأدنى للطلب": "الحد الأدنى لمبلغ الطلب (بالدولار)"،
-     "الحد الأدنى للكمية_العناصر": "الحد الأدنى لكمية العناصر" ،
-     "Usage_limits": "حدود الاستخدام"،
-     "limit_number_uses": "تحديد عدد الاستخدامات" ،
-     "limit_use_per_customer": "قصر على استخدام واحد لكل عميل" ،
-     "Times": "Times"،
-     "validity_promo_code": "صلاحية الرمز الترويجي" ،
-     "set_end_date": "تعيين تاريخ الانتهاء"،
-     "حدود": "حدود"،
-     "يستخدم": "الاستخدامات" ،
-     "na": "N / A"،
-     "ايقاف ايقاف"،
-     "remove_promo_code": "إزالة الرمز الترويجي" ،
-     "not_added_promotional_code": "لم تقم بإضافة أي شفرة ترويجية بعد" ،
-     "add_promotional_code": "أضف شفرات ترويجية لتقديم خصومات للمشترين على مشترياتهم."،
-     "معدل": "معدل"،
-     "type_your_first_name": "اكتب اسمك الأول" ،
-     "type_your_last_name": "اكتب اسمك الأخير" ،
-     "chat_list": "قائمة الدردشة"،
-     "you_have_no_chats": "ليس لديك دردشات" ،
-     "let_start_chat": "لنبدأ الدردشة" ،
-     "pull_all_money_wallet": "الرجاء سحب كل أموالك من المحفظة" ،
-     "your_wallet_looks_good": "محفظتك تبدو جيدة" ،
-     "wait_your_orders_completed": "الرجاء الانتظار حتى تكتمل جميع طلباتك."،
-     "all_orders_are_good": "كل الطلبات جيدة"،
-     "wait_payouts_completed": "الرجاء الانتظار حتى تكتمل العوائد."،
-     "your_payouts_looks_good": "دفعاتك تبدو جيدة."،
-     "Kwot_account_sign_in": "إذا كان لديك حساب Kwot ، فيرجى تسجيل الدخول الآن."،
-     "مجهول": "مجهول"،
-     "سعر_المنتج": "سعر المنتج" ،
-     "with_the_vendor": "مع البائع" ،
-     "Negotiate_the": "تفاوض على" ،
-     "select_rfq_type": "حدد نوع RFQ" ،
-     "select_category": "حدد فئة" ،
-     "Choose_category": "اختر فئة" ،
-     "select_vendors": "تحديد البائعين" ،
-     "Choose_vendors": "اختيار البائعين" ،
-     "type_here_your_message": "اكتب هنا رسالتك" ،
-     "payment_terms": "شروط الدفع" ،
-     "Choose_payment_terms": "اختر شروط الدفع" ،
-     "send_offer_vendor": "إرسال العرض إلى البائع" ،
-     "calling_supplier_quote": "دعوة المورد للاقتباس" ،
-     "resize_image": "تغيير حجم الصورة"،
+     "price_range": "نطاق السعر",
+     "volume_discounts": "خصومات الحجم",
+     "store_sell_product": "في أي متجر ستبيع هذا المنتج؟",
+     "sell_kwot_store": "البيع في متجر Kwot" ,
+     "sell_b2b": "بيع في B2B" ,
+     "edit_vendor_product": "تحذير! أنت تقوم بتحرير منتج بائع.",
+     "add_under_categories": "إذا لم تتمكن من العثور على السمة التي تبحث عنها ، فحاول إضافتها / تمكينها ضمن الفئات" ,
+     "create_promo_code": "إنشاء رمز ترويجي",
+     "customers_discount_checkout": "سيدخل العملاء رمز الخصم هذا عند الخروج.",
+     "promo_type": "نوع العرض الترويجي",
+     "متطلبات_الحد الأدنى": "الحد الأدنى من المتطلبات",
+     "ليس ليس",
+     "الحد الأدنى للطلب": "الحد الأدنى لمبلغ الطلب (بالدولار)",
+     "الحد الأدنى للكمية_العناصر": "الحد الأدنى لكمية العناصر" ,
+     "Usage_limits": "حدود الاستخدام",
+     "limit_number_uses": "تحديد عدد الاستخدامات" ,
+     "limit_use_per_customer": "قصر على استخدام واحد لكل عميل" ,
+     "Times": "Times",
+     "validity_promo_code": "صلاحية الرمز الترويجي" ,
+     "set_end_date": "تعيين تاريخ الانتهاء",
+     "حدود": "حدود",
+     "يستخدم": "الاستخدامات" ,
+     "na": "N / A",
+     "ايقاف ايقاف",
+     "remove_promo_code": "إزالة الرمز الترويجي" ,
+     "not_added_promotional_code": "لم تقم بإضافة أي شفرة ترويجية بعد" ,
+     "add_promotional_code": "أضف شفرات ترويجية لتقديم خصومات للمشترين على مشترياتهم.",
+     "معدل": "معدل",
+     "type_your_first_name": "اكتب اسمك الأول" ,
+     "type_your_last_name": "اكتب اسمك الأخير" ,
+     "chat_list": "قائمة الدردشة",
+     "you_have_no_chats": "ليس لديك دردشات" ,
+     "let_start_chat": "لنبدأ الدردشة" ,
+     "pull_all_money_wallet": "الرجاء سحب كل أموالك من المحفظة" ,
+     "your_wallet_looks_good": "محفظتك تبدو جيدة" ,
+     "wait_your_orders_completed": "الرجاء الانتظار حتى تكتمل جميع طلباتك.",
+     "all_orders_are_good": "كل الطلبات جيدة",
+     "wait_payouts_completed": "الرجاء الانتظار حتى تكتمل العوائد.",
+     "your_payouts_looks_good": "دفعاتك تبدو جيدة.",
+     "Kwot_account_sign_in": "إذا كان لديك حساب Kwot ، فيرجى تسجيل الدخول الآن.",
+     "مجهول": "مجهول",
+     "سعر_المنتج": "سعر المنتج" ,
+     "with_the_vendor": "مع البائع" ,
+     "Negotiate_the": "تفاوض على" ,
+     "select_rfq_type": "حدد نوع RFQ" ,
+     "select_category": "حدد فئة" ,
+     "Choose_category": "اختر فئة" ,
+     "select_vendors": "تحديد البائعين" ,
+     "Choose_vendors": "اختيار البائعين" ,
+     "type_here_your_message": "اكتب هنا رسالتك" ,
+     "payment_terms": "شروط الدفع" ,
+     "Choose_payment_terms": "اختر شروط الدفع" ,
+     "send_offer_vendor": "إرسال العرض إلى البائع" ,
+     "calling_supplier_quote": "دعوة المورد للاقتباس" ,
+     "resize_image": "تغيير حجم الصورة",
      "product_required_measurement_note": "الرجاء إدخال جميع القياسات المطلوبة أو المقاسات المطلوبة فقط للمنتج (المنتجات) التي تشتريها. على سبيل المثال العنق فقط للعقد أو المعصم فقط لرباط المعصم أو جميع قياسات الملابس" ،
-     "update_measurement": "تحديث القياس" ،
+     "update_measurement": "تحديث القياس" ,
      "iphone_android_open_camera_measurement": "إذا كان لديك هاتف iphone أو android ، فافتح الكاميرا أو التطبيق لفحص القياس."،
-     "nif": "NIF" ،
-     "type_your_nif": "اكتب nif الخاص بك" ،
-     "firstName": "firstName"،
-     "lastName": "lastName"،
-     "enter_your_address": "أدخل عنوانك 1" ،
-     "type_flat_number_letter": "اكتب رقم الشقة / أو الحرف" ،
-     "type_address": "اكتب العنوان" ،
-     "type_your_address": "اكتب عنوانك" ،
-     "check_email": "التحقق من البريد الإلكتروني" ،
-     "Verify_phone": "Verify Phone"،
-     "change_password": "تغيير كلمة المرور" ،
-     "tracking_id": "معرف التتبع"،
-     "enter_tracking_id": "أدخل معرف التتبع" ،
-     "enter_tracking_link": "أدخل رابط التتبع" ،
-     "product_pickup_date": "تاريخ استلام المنتج هو" ،
-     "type_the_company_nif": "اكتب اسم الشركة NIF" ،
-     "type_the_company_name": "اكتب اسم الشركة" ،
-     "Choose_your_reason": "اختر سببًا" ،
-     "enter_your_password": "أدخل كلمة المرور" ،
-     "type_your_new_password": "اكتب كلمة المرور الجديدة" ،
-     "كرر كلمة المرور الجديدة": "كرر كلمة المرور الجديدة" ،
-     "في انتظار استرداد المبلغ": "في انتظار رد الأموال" ،
-     "تم رد الأموال": "تم رد الأموال"،
-     "see_return_label": "راجع تسمية الإرجاع" ،
-     "shipping_handling_fees": "رسوم الشحن والمناولة" ،
-     "selected_product_option_goes_here": "خيار المنتج المحدد يظهر هنا" ،
-     "shipping_rate": "سعر الشحن"،
-     "نوع التفاوض": "نوع التفاوض" ،
-     "follow_up": "متابعة"،
-     "required_on": "تم الطلب"،
-     "العنصر": "العنصر" ،
-     "التسليم": "التسليم" ،
-     "update_our_policy": "لقد قمنا بتحديث" ،
-     "policy_updates": "تحديثات السياسة"،
-     "click_here_to_read_the_new": "انقر هنا لقراءة الجديد" ،
-     "Accept_all": "قبول الكل"،
-     "how_may_we_help_you؟": "كيف يمكننا مساعدتك؟"،
-     "the_kwot_payment_policy": "سياسة الدفع kwot" ،
-     "payment_policy_text_1": "يتعلق هذا الجانب من العمل بالطريقة التي نعتزم بها معالجة عملية الدفع لكل معاملة تمر عبر نظامنا الأساسي."،
-     "payment_policy_text_2": "سيتم إتاحة هذه السياسة للموردين وفريق إدارة KWOT للأغراض المرجعية والوضوح حسب الحالة."،
-     "payment_policy_text_3": "KWOT تشارك مع كل من بنك محلي (STANBIC IBTC) ومنصات حلول الدفع الدولية (Paystack) في الوقت الحالي ، لتسهيل عملية الدفع وتحويل الأموال للبائعين وتسهيل تتبع مسؤول KWOT." ،
-     "payment_policy_text_4": "قررت KWOT استخدام STANBIC IBTC باعتباره بنك التسوية النيجيري لكل معاملة يتم إكمالها مع KWOT. وعلى هذا النحو ، فإن ما يلي هو مفتاح لكل بائع عند الاشتراك مع KWOT:" ،
-     "payment_policy_text_5": "يُنصح جميع البائعين بالتسجيل في حساب Stanbic IBTC الخاص بهم لتلقي الدفع" ،
-     "payment_policy_text_6": "يضمن جميع البائعين تسجيلهم فقط بحساباتهم النشطة لتلقي الأموال."،
-     "payment_policy_text_7": "يُنصح البائعون بأن تاريخ التسوية لحساب StanbicIBTC toStanbic IBTC هو T + 1 (تاريخ المعاملة عندما تم استلام المبلغ من KWOT + يوم واحد) ، بينما بالنسبة للبنوك الأخرى يكون T + 2 (تاريخ المعاملة عند استلام المبلغ من KWOT + يومان) أو يمكن أن تكون أطول في حالات غريبة. "،
-     "the_end_to_end_vendor_payment_processing_chain": "سلسلة معالجة مدفوعات البائع من طرف إلى طرف" ،
-     "payment_policy_text_8": "في نهاية كل دفعة ناجحة من قبل المشتري / بمجرد استلام الأموال في حساب KWOTReceiving المصرفي ، يتم اتباع السلسلة التالية:"،
-     "payment_policy_text_9": "هذا هو وقت المعالجة المعتاد وقد يختلف قليلاً في الحالات الخاصة" ،
-     "handle_refund_request": "معالجة طلب استرداد الأموال" ،
-     "payment_policy_text_10": "عندما يكون لدى المشتري طلب استرداد ، فإن السلسلة أدناه يتبعها البائعون" ،
-     ،
-     "payment_policy_text_11": "1) بالنسبة لكل طلب استرداد يقدمه المشتري ، يجب على البائع أن يبذل العناية الواجبة للتأكد من أن مطالبات استرداد الأموال أصلية بناءً على سياسة KWOT RETURN. وهذا يعرض حالتين." ،
-     "payment_policy_text_12": "2) في حالة أنه بعد العناية الواجبة ، تكون مطالبات العميل خاطئة ، يتم إخطار العميل بأنه لن تتم معالجة أي رد." ،
-     "payment_policy_text_13": "3) في حالة ادعاءات العميل صحيحة مع وجود أدلة جوهرية ، يتعين على البائع تقديم خيارين للعميل: للحصول على استرداد كامل أو استبدال عنصر مماثل في حالة جيدة." ،
-     "payment_policy_text_14": "4) عندما يختار العميل استرداد الأموال فورًا ، يقوم البائع بمصادرة الأموال الخاصة بهذه المعاملة."،
-     "payment_policy_text_15": "5) عندما يختار العميل التبادل ، تظل أموال البائع غير مؤكدة حتى يقبل العميل العنصر المقدم في المقابل على أنه في حالة جيدة." ،
-     "payment_policy_text_16": "بينما دخلت KWOT في شراكة مع شركاء ذوي خبرة جيدة في حلول الدفع ، فقد تكون هناك تحديات عرضية. يوصى بالنقاط التالية:"،
-     "payment_policy_text_17": "1) يجب كتابة جميع التفاصيل المصرفية بعناية وبشكل صحيح."،
-     "payment_policy_text_18": "2) لتسهيل التسوية ، يُنصح البائعون بفتح حساب مع شريك بنك التسوية المحلي لدينا."،
-     "payment_policy_text_19": "3) يمكن للبائع التحقق من رصيده المتاح في محافظه بعد فترة تعليق كل معاملة (يومين). وفي حالة وجود أي تناقضات ، يجب تصعيدها إلى مسؤول KWOT / مكتب المساعدة."،
-     "payment_policy_text_20": "4) بالنسبة للحالات التي تتضمن استرداد أموال ، يجب على البائع أن يأخذ على الفور ملكية المعاملة ويتأكد من حلها ، أو إجراء استرداد." ،
-     "payment_policy_text_21": "5) في أي حالة تنطوي على مشكلة مع موفري حلول الدفع ، يجب الاتصال بمسؤول KWOT على الفور للتوصل إلى حل." ،
-     "payment_policy_text_22": "6) لا ينبغي بأي حال من الأحوال أن يحاول البائع تجاوز عملية تحويل الأموال المعتادة التي حددتها KWOT."،
-     "vendor_bank_account_details": "تفاصيل الحساب المصرفي للبائع / التسجيل لـ kwot" ،
-     "set_your_daily_budget": "تعيين ميزانيتك اليومية" ،
-     "ads_budget_note": "نستخدم ميزانيتك اليومية للترويج لمنتجاتك وتحقيق أفضل النتائج لإنفاقك الإعلاني. عيِّن ميزانية تتراوح بين دولار واحد و 50 دولارًا أمريكيًا يمكنك تغييرها في أي وقت."،
-     "i_agree_kwots": "أوافق على Kwot" ،
-     "keep_in_mind": "ضع في اعتبارك"،
-     "budget_keep_note_one": "الميزانية المرتفعة تعني أنه يمكننا عرض إعلاناتك مرات أكثر في أماكن عالية الوضوح في Kwot." ،
-     "budget_keep_note_two": "لتحقيق أفضل النتائج ، ضع في اعتبارك الاحتفاظ بميزانيتك كما هي للأيام الثلاثين الأولى."،
-     "ads_policies": "السياسات الإعلانية" ،
-     "start_kwot_ads_steps": "ابدأ إعلانات Kwot بخطوات قليلة" ،
-     "kwot_ads_steps_note": "Kwot Ads تضع منتجاتك في مرتبة أعلى في بحث kwot والمواضع الأخرى ذات عدد الزيارات المرتفع على Kwot ، حتى تتمكن من الوصول إلى ملايين المشترين المهتمين." ،
-     "Goals_for_shop": "أولاً ، أخبرنا بأهدافك حتى نتمكن من تحقيق أفضل النتائج لمتجرك:"،
-     "set_your_goals": "حدد أهدافك" ،
-     "set_budget": "تعيين الميزانية"،
-     "my_details": "تفاصيلي"،
-     "control_how_you_get_notifications": "التحكم في كيفية تلقي الإشعارات" ،
-     "activ_all": "تنشيط الكل" ،
-     "order_updates": "تحديثات الطلب" ،
-     "updates_related_to_your_sales": "تحديثات متعلقة بمبيعاتك" ،
-     "ادفع ادفع"،
-     "sms": "SMS"،
-     "النشاط المالي": "النشاط المالي"،
-     "updates_related_financial_activity": "تحديثات متعلقة بنشاطك المالي" ،
-     "updates_related_purchases": "تحديثات متعلقة بمشترياتك" ،
-     "اتجاهات_التحديثات": "الاتجاهات والتحديثات"،
-     "freshest_finds_and_latest_app_features": "أحدث الاكتشافات وأحدث ميزات التطبيق"،
-     "rfq_price": "سعر RFQ"،
-     "waiting_for_final_approval": "في انتظار موافقتك النهائية" ،
-     "approve_proposal": "الموافقة على الاقتراح"،
-     "submit_proposal": "إرسال اقتراح"،
-     "Accept_proposal": "قبول الاقتراح"،
-     "download_offer_letter": "تنزيل خطاب العرض" ،
-     "go_to_shopping_cart": "اذهب إلى عربة التسوق" ،
-     "waiting_final_approval_by_admin": "في انتظار الموافقة النهائية من قبل المسؤول"،
-     "Negotiation_cancelled": "تم إلغاء هذه المفاوضات" ،
-     "Proper_expired": "هذا العرض منتهي الصلاحية"،
-     "قائمة_قروض_المقترحات": "قائمة الاقتراحات"،
-     "Receiving_proposal_from_vendors": "لم تستلم عرضًا بعد من البائعين" ،
-     "عرضت_السعر": "السعر المقتبس"،
+     "nif": "NIF" ,
+     "type_your_nif": "اكتب nif الخاص بك" ,
+     "firstName": "firstName",
+     "lastName": "lastName",
+     "enter_your_address": "أدخل عنوانك 1" ,
+     "type_flat_number_letter": "اكتب رقم الشقة / أو الحرف" ,
+     "type_address": "اكتب العنوان" ,
+     "type_your_address": "اكتب عنوانك" ,
+     "check_email": "التحقق من البريد الإلكتروني" ,
+     "Verify_phone": "Verify Phone",
+     "change_password": "تغيير كلمة المرور" ,
+     "tracking_id": "معرف التتبع",
+     "enter_tracking_id": "أدخل معرف التتبع" ,
+     "enter_tracking_link": "أدخل رابط التتبع" ,
+     "product_pickup_date": "تاريخ استلام المنتج هو" ,
+     "type_the_company_nif": "اكتب اسم الشركة NIF" ,
+     "type_the_company_name": "اكتب اسم الشركة" ,
+     "Choose_your_reason": "اختر سببًا" ,
+     "enter_your_password": "أدخل كلمة المرور" ,
+     "type_your_new_password": "اكتب كلمة المرور الجديدة" ,
+     "كرر كلمة المرور الجديدة": "كرر كلمة المرور الجديدة" ,
+     "في انتظار استرداد المبلغ": "في انتظار رد الأموال" ,
+     "تم رد الأموال": "تم رد الأموال",
+     "see_return_label": "راجع تسمية الإرجاع" ,
+     "shipping_handling_fees": "رسوم الشحن والمناولة" ,
+     "selected_product_option_goes_here": "خيار المنتج المحدد يظهر هنا" ,
+     "shipping_rate": "سعر الشحن",
+     "نوع التفاوض": "نوع التفاوض" ,
+     "follow_up": "متابعة",
+     "required_on": "تم الطلب",
+     "العنصر": "العنصر" ,
+     "التسليم": "التسليم" ,
+     "update_our_policy": "لقد قمنا بتحديث" ,
+     "policy_updates": "تحديثات السياسة",
+     "click_here_to_read_the_new": "انقر هنا لقراءة الجديد" ,
+     "Accept_all": "قبول الكل",
+     "how_may_we_help_you؟": "كيف يمكننا مساعدتك؟",
+     "the_kwot_payment_policy": "سياسة الدفع kwot" ,
+     "payment_policy_text_1": "يتعلق هذا الجانب من العمل بالطريقة التي نعتزم بها معالجة عملية الدفع لكل معاملة تمر عبر نظامنا الأساسي.",
+     "payment_policy_text_2": "سيتم إتاحة هذه السياسة للموردين وفريق إدارة KWOT للأغراض المرجعية والوضوح حسب الحالة.",
+     "payment_policy_text_3": "KWOT تشارك مع كل من بنك محلي (STANBIC IBTC) ومنصات حلول الدفع الدولية (Paystack) في الوقت الحالي ، لتسهيل عملية الدفع وتحويل الأموال للبائعين وتسهيل تتبع مسؤول KWOT." ,
+     "payment_policy_text_4": "قررت KWOT استخدام STANBIC IBTC باعتباره بنك التسوية النيجيري لكل معاملة يتم إكمالها مع KWOT. وعلى هذا النحو ، فإن ما يلي هو مفتاح لكل بائع عند الاشتراك مع KWOT:" ,
+     "payment_policy_text_5": "يُنصح جميع البائعين بالتسجيل في حساب Stanbic IBTC الخاص بهم لتلقي الدفع" ,
+     "payment_policy_text_6": "يضمن جميع البائعين تسجيلهم فقط بحساباتهم النشطة لتلقي الأموال.",
+     "payment_policy_text_7": "يُنصح البائعون بأن تاريخ التسوية لحساب StanbicIBTC toStanbic IBTC هو T + 1 (تاريخ المعاملة عندما تم استلام المبلغ من KWOT + يوم واحد) ، بينما بالنسبة للبنوك الأخرى يكون T + 2 (تاريخ المعاملة عند استلام المبلغ من KWOT + يومان) أو يمكن أن تكون أطول في حالات غريبة. ",
+     "the_end_to_end_vendor_payment_processing_chain": "سلسلة معالجة مدفوعات البائع من طرف إلى طرف" ,
+     "payment_policy_text_8": "في نهاية كل دفعة ناجحة من قبل المشتري / بمجرد استلام الأموال في حساب KWOTReceiving المصرفي ، يتم اتباع السلسلة التالية:",
+     "payment_policy_text_9": "هذا هو وقت المعالجة المعتاد وقد يختلف قليلاً في الحالات الخاصة" ,
+     "handle_refund_request": "معالجة طلب استرداد الأموال" ,
+     "payment_policy_text_10": "عندما يكون لدى المشتري طلب استرداد ، فإن السلسلة أدناه يتبعها البائعون" ,
+
+     "payment_policy_text_11": "1) بالنسبة لكل طلب استرداد يقدمه المشتري ، يجب على البائع أن يبذل العناية الواجبة للتأكد من أن مطالبات استرداد الأموال أصلية بناءً على سياسة KWOT RETURN. وهذا يعرض حالتين." ,
+     "payment_policy_text_12": "2) في حالة أنه بعد العناية الواجبة ، تكون مطالبات العميل خاطئة ، يتم إخطار العميل بأنه لن تتم معالجة أي رد." ,
+     "payment_policy_text_13": "3) في حالة ادعاءات العميل صحيحة مع وجود أدلة جوهرية ، يتعين على البائع تقديم خيارين للعميل: للحصول على استرداد كامل أو استبدال عنصر مماثل في حالة جيدة." ,
+     "payment_policy_text_14": "4) عندما يختار العميل استرداد الأموال فورًا ، يقوم البائع بمصادرة الأموال الخاصة بهذه المعاملة.",
+     "payment_policy_text_15": "5) عندما يختار العميل التبادل ، تظل أموال البائع غير مؤكدة حتى يقبل العميل العنصر المقدم في المقابل على أنه في حالة جيدة." ,
+     "payment_policy_text_16": "بينما دخلت KWOT في شراكة مع شركاء ذوي خبرة جيدة في حلول الدفع ، فقد تكون هناك تحديات عرضية. يوصى بالنقاط التالية:",
+     "payment_policy_text_17": "1) يجب كتابة جميع التفاصيل المصرفية بعناية وبشكل صحيح.",
+     "payment_policy_text_18": "2) لتسهيل التسوية ، يُنصح البائعون بفتح حساب مع شريك بنك التسوية المحلي لدينا.",
+     "payment_policy_text_19": "3) يمكن للبائع التحقق من رصيده المتاح في محافظه بعد فترة تعليق كل معاملة (يومين). وفي حالة وجود أي تناقضات ، يجب تصعيدها إلى مسؤول KWOT / مكتب المساعدة.",
+     "payment_policy_text_20": "4) بالنسبة للحالات التي تتضمن استرداد أموال ، يجب على البائع أن يأخذ على الفور ملكية المعاملة ويتأكد من حلها ، أو إجراء استرداد." ,
+     "payment_policy_text_21": "5) في أي حالة تنطوي على مشكلة مع موفري حلول الدفع ، يجب الاتصال بمسؤول KWOT على الفور للتوصل إلى حل." ,
+     "payment_policy_text_22": "6) لا ينبغي بأي حال من الأحوال أن يحاول البائع تجاوز عملية تحويل الأموال المعتادة التي حددتها KWOT.",
+     "vendor_bank_account_details": "تفاصيل الحساب المصرفي للبائع / التسجيل لـ kwot" ,
+     "set_your_daily_budget": "تعيين ميزانيتك اليومية" ,
+     "ads_budget_note": "نستخدم ميزانيتك اليومية للترويج لمنتجاتك وتحقيق أفضل النتائج لإنفاقك الإعلاني. عيِّن ميزانية تتراوح بين دولار واحد و 50 دولارًا أمريكيًا يمكنك تغييرها في أي وقت.",
+     "i_agree_kwots": "أوافق على Kwot" ,
+     "keep_in_mind": "ضع في اعتبارك",
+     "budget_keep_note_one": "الميزانية المرتفعة تعني أنه يمكننا عرض إعلاناتك مرات أكثر في أماكن عالية الوضوح في Kwot." ,
+     "budget_keep_note_two": "لتحقيق أفضل النتائج ، ضع في اعتبارك الاحتفاظ بميزانيتك كما هي للأيام الثلاثين الأولى.",
+     "ads_policies": "السياسات الإعلانية" ,
+     "start_kwot_ads_steps": "ابدأ إعلانات Kwot بخطوات قليلة" ,
+     "kwot_ads_steps_note": "Kwot Ads تضع منتجاتك في مرتبة أعلى في بحث kwot والمواضع الأخرى ذات عدد الزيارات المرتفع على Kwot ، حتى تتمكن من الوصول إلى ملايين المشترين المهتمين." ,
+     "Goals_for_shop": "أولاً ، أخبرنا بأهدافك حتى نتمكن من تحقيق أفضل النتائج لمتجرك:",
+     "set_your_goals": "حدد أهدافك" ,
+     "set_budget": "تعيين الميزانية",
+     "my_details": "تفاصيلي",
+     "control_how_you_get_notifications": "التحكم في كيفية تلقي الإشعارات" ,
+     "activ_all": "تنشيط الكل" ,
+     "order_updates": "تحديثات الطلب" ,
+     "updates_related_to_your_sales": "تحديثات متعلقة بمبيعاتك" ,
+     "ادفع ":"ادفع",
+     "sms": "SMS",
+     "النشاط المالي": "النشاط المالي",
+     "updates_related_financial_activity": "تحديثات متعلقة بنشاطك المالي" ,
+     "updates_related_purchases": "تحديثات متعلقة بمشترياتك" ,
+     "اتجاهات_التحديثات": "الاتجاهات والتحديثات",
+     "freshest_finds_and_latest_app_features": "أحدث الاكتشافات وأحدث ميزات التطبيق",
+     "rfq_price": "سعر RFQ",
+     "waiting_for_final_approval": "في انتظار موافقتك النهائية" ,
+     "approve_proposal": "الموافقة على الاقتراح",
+     "submit_proposal": "إرسال اقتراح",
+     "Accept_proposal": "قبول الاقتراح",
+     "download_offer_letter": "تنزيل خطاب العرض" ,
+     "go_to_shopping_cart": "اذهب إلى عربة التسوق" ,
+     "waiting_final_approval_by_admin": "في انتظار الموافقة النهائية من قبل المسؤول",
+     "Negotiation_cancelled": "تم إلغاء هذه المفاوضات" ,
+     "Proper_expired": "هذا العرض منتهي الصلاحية",
+     "قائمة_قروض_المقترحات": "قائمة الاقتراحات",
+     "Receiving_proposal_from_vendors": "لم تستلم عرضًا بعد من البائعين" ,
+     "عرضت_السعر": "السعر المقتبس",
      "send_offer": "إرسال عرض"
 
 }
